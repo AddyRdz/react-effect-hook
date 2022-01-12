@@ -35,7 +35,6 @@ So, what is the Component Life Cycle?
 
 
 
-
 ## The Component Life Cycle
 
 
@@ -87,6 +86,8 @@ There are three types of component lifecycle methods:
     }
   })
 ```
+
+[This is a beautiful visual guide to `useEffect`](https://alexsidorenko.com/blog/useeffect/)
 
 # Making Fetch Requests to third party APIs
 
